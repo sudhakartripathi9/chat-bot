@@ -1,1 +1,1 @@
-used huggingface free model "google/flan-t5-base". for tokenization used "sentence-transformers/all-MiniLM-L6-v2". vectorDB is Pinecone.
+used huggingface free model "google/flan-t5-base". for tokenization used "sentence-transformers/all-MiniLM-L6-v2". vectorDB is Pinecone. i have removed my pdf file.
